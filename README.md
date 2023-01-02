@@ -26,7 +26,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output: 
 
-![eig]()
+![eig](Screenshot_20230102_063131.png)
 
 
 
